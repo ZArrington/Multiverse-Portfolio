@@ -16,6 +16,7 @@ In the end, we were able to complete two fully functional features to the websit
 ## Competencies
 ### JF 3.3
 - JF 3.3 Can link code to data sets
+
 I tasked myself with establishing the connection between the API routes and the front-end to create functionality. To begin, I utilized Visual Studio and leveraged .NET to create the API route instructions. Once the API routes were established I transitioned into the front-end. From here, I connected the routes and appropriate end=points in the Angular code. By completing this step, I ensured that the website could effectively communicate with the back-end.
 
 ### JF XX.XX
