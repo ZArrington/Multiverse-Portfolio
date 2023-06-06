@@ -1,15 +1,17 @@
-## Project #2
-Give a high-level overview of the project purpose
-- (*Situation*) Describe the application and why you created this program
-- (*Task*) Describe the overall structure of your application and the design process prior to building the program
-- (*Action*) Explain the code you wrote to achieve your desired result
-- (*Result*) Showcase your final application with its functionality
-- Include relevant screenshots
+## Project Reflection
+
+During my apprenticeship, I was put on a pair programming project and we were tasked with working on two enhancements to the internal user interface for my team. I was part of a team of 3 that worked on the full-stack web development. Initially, a senior team member gave us small scavenger hunt tasks to familiarize ourselves with the code then we were tasked with working on a JIRA ticket and adding two read-only features on the website.
+
+The project was a unique challenge for me as I had no prior experience with C#, SQL, .NET or Angular. However, with the collaborating and guidance from my team members I gained newfound confidence in navigating these technologies and making edits. 
+
+I actively contributed to the development process by creating four new components and two containers to house those components. I also worked on the back-end API and database intergration. I helped create new routes for the API and connected them to the front-end(JF 2.5|JF 3.4). Through these tasks, I gained hands-on experience with both front-end and back-end development.
+
+In the end, we were able to complete two fully functional features to the website and improved user experience.(JF 3.3)
 
 ## Technologies
-- List all technologies and versions here
-- Include dependencies and versions
-- Note any deployment tools as well
+- Angular, HTML, CSS
+- .NET, C#
+- SQL
 
 ## Competencies
 ### JF XX.XX
