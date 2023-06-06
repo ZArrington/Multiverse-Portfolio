@@ -14,12 +14,9 @@ In the end, we were able to complete two fully functional features to the websit
 - SQL
 
 ## Competencies
-### JF XX.XX
-- List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competentcy to this project
+### JF 3.3
+- JF 3.3 Can link code to data sets
+I tasked myself with establishing the connection between the API routes and the front-end to create functionality. To begin, I utilized Visual Studio and leveraged .NET to create the API route instructions. Once the API routes were established I transitioned into the front-end. From here, I connected the routes and appropriate end=points in the Angular code. By completing this step, I ensured that the website could effectively communicate with the back-end.
 
 ### JF XX.XX
 - List the full text of the job function first
