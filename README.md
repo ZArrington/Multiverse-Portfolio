@@ -11,8 +11,8 @@ This document is a broad overview of my contributions to the company's services 
 
 ## Projects
 
-- [Employee Management App](https://www.github.com/octokatherine)
-- [User Interface Enhancement](https://www.github.com/octokatherine)
+- [Employee Management App](https://github.com/ZArrington/Multiverse-Portfolio/tree/main/project1)
+- [User Interface Enhancement](https://github.com/ZArrington/Multiverse-Portfolio/tree/main/project2)
 
 ## Acknowledgements
 
