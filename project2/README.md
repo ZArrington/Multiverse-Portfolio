@@ -1,4 +1,4 @@
-## Project Reflection
+## UI Enhancement Reflection
 
 During my apprenticeship, I was put on a pair programming project and we were tasked with working on two enhancements to the internal user interface for my team. I was part of a team of 3 that worked on the full-stack web development. Initially, a senior team member gave us small scavenger hunt tasks to familiarize ourselves with the code then we were tasked with working on a JIRA ticket and adding two read-only features on the website.
 
