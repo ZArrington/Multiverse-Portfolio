@@ -16,11 +16,9 @@ We ran into some bugs along the way but we were able to overcome it through a lo
 
 Since we were working in a group it was crucial to communicate our progress throughout the project. My team member and I communicated through Slack, text message and video meetings. Whenever there was an issue we used our communication channels to walk through the problem. Adapting to and working with a different persons communication style was a pleasant experience and I enjoyed working apart of team to complete this project. 
 
-### JF XX.XX
-- List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competency to this project
+### JF 6.7
+- Communicates effectively in a variety of situations to both a technical and nontechnical audience.
+
+We were tasked with presenting our application and sharing our project experience with both our peers and coaches. Since not everyone was working with the same technologies, we needed to effectively convey the purpose and functionality of our app. During the presentation, we provided a clear explanation of our application. We talked about its features and its purpose and ensured that the audience had a clear understanding of the work we accomplished.
 
 
