@@ -5,6 +5,13 @@ We picked up a course that provided step-by-step guidance on creating the front-
 
 We ran into some bugs along the way but we were able to overcome it through a lot of ' console.logs',colloboration and increased productivity. In the end we were able to create a working full-stack Angular application.
 
+## Screenshots
+<img width="1436" alt="Screen Shot 2023-06-07 at 1 56 52 PM" src="https://github.com/ZArrington/Multiverse-Portfolio/assets/100169669/a296dd99-6397-4c16-9a3a-d95fe52d4810">
+
+<img width="1406" alt="Screen Shot 2023-06-07 at 1 57 25 PM" src="https://github.com/ZArrington/Multiverse-Portfolio/assets/100169669/2e94e511-441f-4502-b589-0f958f6119c0">
+
+<img width="1419" alt="Screen Shot 2023-06-07 at 1 57 42 PM" src="https://github.com/ZArrington/Multiverse-Portfolio/assets/100169669/432ef694-77bb-4d35-92ab-0d4431cca5d4">
+
 ## Technologies
 - Angular
 - SQL
