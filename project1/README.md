@@ -5,7 +5,7 @@ We picked up a course that provided step-by-step guidance on creating the front-
 
 We ran into some bugs along the way but we were able to overcome it through a lot of ' console.logs',colloboration and increased productivity. In the end we were able to create a working full-stack Angular application.
 
-
+Here's a link to the app!:
 https://employeemanagementappui.web.app/
 
 ## Screenshots
