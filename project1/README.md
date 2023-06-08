@@ -5,6 +5,9 @@ We picked up a course that provided step-by-step guidance on creating the front-
 
 We ran into some bugs along the way but we were able to overcome it through a lot of ' console.logs',colloboration and increased productivity. In the end we were able to create a working full-stack Angular application.
 
+[
+](https://employeemanagementappui.web.app/)
+
 ## Screenshots
 <img width="1436" alt="Screen Shot 2023-06-07 at 1 56 52 PM" src="https://github.com/ZArrington/Multiverse-Portfolio/assets/100169669/a296dd99-6397-4c16-9a3a-d95fe52d4810">
 
@@ -21,7 +24,7 @@ We ran into some bugs along the way but we were able to overcome it through a lo
 ### JF 6.1
 - Knows how best to communicate using different communication methods and how to adapt appropriately to different audiences
 
-Since we were working in a group it was crucial to communicate our progress throughout the project. My team member and I communicated through Slack, text message and video meetings. Whenever there was an issue we used our communication channels to walk through the problem. Adapting to and working with a different persons communication style was a pleasant experience and I enjoyed working apart of team to complete this project. 
+Since we were working in a group it was crucial to communicate our progress throughout the project. My team member and I communicated through Slack, text message and video meetings when it came to collaborating, sending updates and asking questions. Whenever there was an issue we used our communication channels to walk through the problem. My partner and I had similar communication styles and this made the process a lot smoother. Working on this project was a pleasant experience and I enjoyed working as part of a team to complete it. 
 
 ### JF 6.7
 - Communicates effectively in a variety of situations to both a technical and nontechnical audience.
