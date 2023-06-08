@@ -22,6 +22,6 @@ I tasked myself with establishing the connection between the API routes and the 
 ### JF 2.5
 - Can implement a responsive User Interface
 
-Creating a user interface was not a simple task and involved multiple components, which includes the front-end, back-end, and databases. On the front end, we focused on designing and implementing the visual elements for the overall user experience. This includes using HTML, CSS, and utilizing the Angular framework.  On the back-end, we developed the logic and functionality that powered the user interface. This involved setting up Apis and creating routes. For managing data, we looked over the SQL database to see which tables had the necessary data needed to use for our APIs.
+Creating a user interface was not a simple task and involved multiple components, which includes the front-end, back-end, and databases. On the front end, we focused on designing and implementing the visual elements for the overall user experience. This includes using HTML, CSS, and utilizing the Angular framework.  On the back-end, we developed the logic and functionality that powered the user interface. This involved setting up APIs and creating routes. For managing data, we looked over the SQL database to see which tables had the necessary data needed to use for our APIs.
 
 Bringing these pieces together required careful coordination and collaboration between the team. Overall, I learned a lot from the process and really enjoyed working on this part of the project!
