@@ -8,8 +8,10 @@ We ran into some bugs along the way, but we were able to overcome them through a
 
 Here's a link to the app!:
 https://employeemanagementappui.web.app/
+
 UI Github Link:
 https://github.com/bryan99pham/EmployeeManagementAppUI
+
 API Github Link:
 https://github.com/bryan99pham/EmployeeManagementAppAPI
 
